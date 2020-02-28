@@ -24,7 +24,7 @@ add index
 submenu test
 
     * :doc:`dol <in/dol>`
-    * :doc:`cong <in/dol>`
+    * :doc:`cong <in/cong>`
 
 .. toctree::
    :maxdepth: 2
@@ -36,3 +36,5 @@ submenu test
 
 .. _`dol` : in/dol
 .. _`cong` : in/cong
+
+
