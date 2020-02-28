@@ -7,13 +7,13 @@ TITLE
 subtitle
 ---------
 
-I would say amumal daejanchi
+link test
 
    * `naver`_ : Korean search engine
    * `HUFS`_ : Hankuk University of Foriegn Studies|homepage
 
 .. _naver : https://www.naver.com/
-.. _HUFS : https://www.hufs.ac.kr/ 
+.. _HUFS : http://www.hufs.ac.kr/ 
    
 sdfdk
 blahblahblah
@@ -21,14 +21,12 @@ blahblahblah
 add index
 ---------
 
-I will add an index
-
-Try enter the submenu
+submenu test
 
     * :doc:`dol <in/dol>`
     * :doc:`cong <in/dol>`
 
-.. toctee::
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: in
