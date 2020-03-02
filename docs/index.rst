@@ -7,7 +7,7 @@ TITLE
 subtitle
 ---------
 
-link test
+link test -> insertion link
 
    * `naver`_ : Korean search engine
    * `HUFS`_ : Hankuk University of Foriegn Studies|homepage
@@ -15,8 +15,8 @@ link test
 .. _naver : https://www.naver.com/
 .. _HUFS : http://www.hufs.ac.kr/ 
    
-sdfdk
-blahblahblah
+amumal daejanchi
+LOL
 
 add index
 ---------
@@ -36,5 +36,4 @@ submenu test
 
 .. _`dol` : in/dol
 .. _`cong` : in/cong
-
 
